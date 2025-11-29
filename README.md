@@ -1,5 +1,13 @@
 # E-learning-app-design
-UI / UX
+The app is a cross-device learning platform (mobile + tablet + desktop) where learners and instructors can:
+
+browse courses, enroll, track progress
+view lessons (video / text / quizzes)
+track performance, get feedback
+optionally interact (discussions, assignments, assessments)
+
+Goal: deliver learning content in a clean, intuitive, motivating way — so users focus on learning, not on figuring out navigation or layout.
+
 
 Link : https://www.figma.com/design/HuUyW98h2bUkK5J9T1d6Lx/PORTFOLIO?node-id=0-1&t=tuxgPBmTGy4ansPr-1
 
@@ -8,3 +16,5 @@ Link : https://www.figma.com/design/HuUyW98h2bUkK5J9T1d6Lx/PORTFOLIO?node-id=0-1
 <img width="697" height="547" alt="3" src="https://github.com/user-attachments/assets/50b182e0-c215-4505-9d4d-dd21e6bfbbef" />
 <img width="756" height="533" alt="5" src="https://github.com/user-attachments/assets/f507b4d2-8eff-4c7e-b5e5-b2cf61bbf187" />
 <img width="697" height="380" alt="6" src="https://github.com/user-attachments/assets/b615ef0a-0c9c-4db1-ba59-cdb315bd2af3" />
+
+
